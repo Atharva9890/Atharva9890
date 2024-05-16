@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **React, JS, DSA, OOPS, Python, UI/UX**
 
-- 📫 How to reach me **kalangeatharv@gmail.com**
+- 📫 Contact me **kalangeatharv@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
