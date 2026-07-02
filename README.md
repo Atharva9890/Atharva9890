@@ -8,7 +8,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atharva-kalange)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kalangeatharv@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Top_0.5%25_·_1110%2B_solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/Atharva)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Top_0.5%25_·_1110%2B_solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)]([https://leetcode.com/Atharva](https://leetcode.com/u/_Atharva_/))
 [![Follow](https://img.shields.io/github/followers/Atharva9890?label=Follow&style=for-the-badge&color=238636&labelColor=1B1F23)](https://github.com/Atharva9890)
 [![Profile Views](https://komarev.com/ghpvc/?username=Atharva9890&color=00D4FF&style=for-the-badge&label=Profile+Views)](https://github.com/Atharva9890)
 
@@ -130,19 +130,6 @@ React + Next.js + TypeScript dashboards wired to real-time data streams. Tailwin
 | **1M-Doc RAG Search** | Hybrid semantic search with RAGAS-evaluated accuracy | LangChain · FAISS · pgvector | sub-100ms P99 |
 | **Real-Time Analytics Platform** | Exactly-once Kafka + Flink pipeline with live Next.js dashboard | Kafka · Flink · Next.js | sub-second latency |
 | **FastAPI Code-Review Flywheel** | LLM-powered code review pipeline with feedback loop | FastAPI · Python · OpenAI | production deployed |
-
----
-
-## 🔭 Currently Building 
-
-> Shipping new AI + full-stack projects this month 👀
-
-```python
-projects_wip = [
-    "→ [AI Project — details dropping soon]",
-    "→ [AI Project — details dropping soon]",
-]
-```
 
 ---
 
