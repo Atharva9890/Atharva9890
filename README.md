@@ -20,7 +20,7 @@
 
 <br/><br/>
 
-> **Software Engineer** Â· Sunnyvale, CA Â· M.S. Computer Science, GPA 4.0 Â· F-1 STEM OPT
+> **Software Engineer** |· Sunnyvale, CA |· M.S. Computer Science, GPA 4.0 |· F-1 STEM OPT
 
 </div>
 
